@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FranciscoIv\u00E1nJu\u00E1rezG\\Documents\\AZ-204\\application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02031B5C-0C06-4A4E-88DC-BF74925230E2}|learningapp\\learningapp.csproj|c:\\users\\franciscoiv\u00E1nju\u00E1rezg\\documents\\az-204\\application\\learningapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02031B5C-0C06-4A4E-88DC-BF74925230E2}|learningapp\\learningapp.csproj|solutionrelative:learningapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02031B5C-0C06-4A4E-88DC-BF74925230E2}|learningapp\\learningapp.csproj|c:\\users\\franciscoiv\u00E1nju\u00E1rezg\\documents\\az-204\\application\\learningapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02031B5C-0C06-4A4E-88DC-BF74925230E2}|learningapp\\learningapp.csproj|solutionrelative:learningapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02031B5C-0C06-4A4E-88DC-BF74925230E2}|learningapp\\learningapp.csproj|c:\\users\\franciscoiv\u00E1nju\u00E1rezg\\documents\\az-204\\application\\learningapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02031B5C-0C06-4A4E-88DC-BF74925230E2}|learningapp\\learningapp.csproj|solutionrelative:learningapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02031B5C-0C06-4A4E-88DC-BF74925230E2}|learningapp\\learningapp.csproj|c:\\users\\franciscoiv\u00E1nju\u00E1rezg\\documents\\az-204\\application\\learningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02031B5C-0C06-4A4E-88DC-BF74925230E2}|learningapp\\learningapp.csproj|solutionrelative:learningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02031B5C-0C06-4A4E-88DC-BF74925230E2}|learningapp\\learningapp.csproj|c:\\users\\franciscoiv\u00E1nju\u00E1rezg\\documents\\az-204\\application\\learningapp\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02031B5C-0C06-4A4E-88DC-BF74925230E2}|learningapp\\learningapp.csproj|solutionrelative:learningapp\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FranciscoIv\u00E1nJu\u00E1rezG\\Documents\\AZ-204\\application\\learningapp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "learningapp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FranciscoIv\u00E1nJu\u00E1rezG\\Documents\\AZ-204\\application\\learningapp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "learningapp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T20:01:33.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\FranciscoIv\u00E1nJu\u00E1rezG\\Documents\\AZ-204\\application\\learningapp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "learningapp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\FranciscoIv\u00E1nJu\u00E1rezG\\Documents\\AZ-204\\application\\learningapp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "learningapp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:33:42.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\FranciscoIv\u00E1nJu\u00E1rezG\\Documents\\AZ-204\\application\\learningapp\\Course.cs",
+              "RelativeDocumentMoniker": "learningapp\\Course.cs",
+              "ToolTip": "C:\\Users\\FranciscoIv\u00E1nJu\u00E1rezG\\Documents\\AZ-204\\application\\learningapp\\Course.cs",
+              "RelativeToolTip": "learningapp\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:19:28.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FranciscoIv\u00E1nJu\u00E1rezG\\Documents\\AZ-204\\application\\learningapp\\Program.cs",
+              "RelativeDocumentMoniker": "learningapp\\Program.cs",
+              "ToolTip": "C:\\Users\\FranciscoIv\u00E1nJu\u00E1rezG\\Documents\\AZ-204\\application\\learningapp\\Program.cs",
+              "RelativeToolTip": "learningapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:19:21.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FranciscoIv\u00E1nJu\u00E1rezG\\Documents\\AZ-204\\application\\learningapp\\appsettings.json",
+              "RelativeDocumentMoniker": "learningapp\\appsettings.json",
+              "ToolTip": "C:\\Users\\FranciscoIv\u00E1nJu\u00E1rezG\\Documents\\AZ-204\\application\\learningapp\\appsettings.json",
+              "RelativeToolTip": "learningapp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T17:18:33.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
